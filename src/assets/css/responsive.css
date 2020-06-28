@@ -1,0 +1,29 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .desktop {
+        display: none !important;
+    }
+
+    .mobile {
+        display: block;
+    }
+
+    .navbar-logo {
+        width: 60%;
+    }
+
+    .info-item {
+        padding: 0px 5px;
+    }
+
+    .top-nav {
+        height: 60px;
+    }
+
+    .navbar {
+        height: 100px;
+    }
+
+    .list-modul {
+        margin: 0;
+    }
+}
