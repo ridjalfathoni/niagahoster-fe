@@ -2,6 +2,21 @@ body {
     overflow-x: hidden;
 }
 
+a {
+    color: #c4c4c4;
+}
+
+a:link {
+    color: #cc0000;
+}
+a:visited {
+    color: #999999;
+}
+.footer-list a:hover {
+    color: #00AEF1 !important;
+    text-decoration: none !important;
+}
+
 .desktop {
     display: block;
 }
