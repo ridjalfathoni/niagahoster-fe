@@ -12,9 +12,13 @@ a:link {
 a:visited {
     color: #999999;
 }
-a:hover {
+.footer-info a:hover, .privacy-policy a:hover, .info-item a:hover {
     color: #00AEF1 !important;
     text-decoration: none !important;
+}
+
+.privacy-policy a{
+    margin: 5px;
 }
 
 .share-items {
