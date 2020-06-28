@@ -145,10 +145,6 @@ img {
     width: 180px;
 }
 
-.card-package {
-    /* border: 1px solid #dee2e6; */
-}
-
 .best-seller {
     position: relative;
 }
@@ -297,10 +293,6 @@ img {
 
 .table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
     background-color: #ffffff;
-}
-
-.article-content table {
-    /* margin: 20px; */
 }
 
 table td {
