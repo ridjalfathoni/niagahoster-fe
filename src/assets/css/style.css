@@ -12,9 +12,21 @@ a:link {
 a:visited {
     color: #999999;
 }
-.footer-list a:hover {
+a:hover {
     color: #00AEF1 !important;
     text-decoration: none !important;
+}
+
+.share-items {
+    cursor: pointer;
+    transition: border-radius 1s;
+    border: 2px solid transparent !important;
+    padding: 5px;
+}
+
+.share-items:hover {
+    border: 2px solid #00AEF1 !important;
+    border-radius: 10px;
 }
 
 .desktop {

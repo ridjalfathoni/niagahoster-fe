@@ -630,7 +630,7 @@
         <div class="share">
             <div class="container h-100">
                 <div class="share-content d-flex flex-row flex-wrap align-items-center h-100">
-                    <p class="share-text text-center text-sm-left">Bagikan jika Anda menyukai halaman ini.</p>
+                    <p class="share-text text-center text-sm-left mx-auto mx-md-0">Bagikan jika Anda menyukai halaman ini.</p>
                     <div class="share-to d-flex flex-row flex-wrap mx-auto">
                         <div class="share-items d-flex flex-row flex-wrap">
                             <div class="facebook">

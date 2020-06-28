@@ -15,15 +15,15 @@
                         <div class="d-flex justify-content-center align-items-center flex-row flex-wrap">
                             <div class="info-item">
                                 <i class="fa fa-phone mr-2" aria-hidden="true"></i>
-                                <span>0274-5305505</span>
+                                <a href=#>0274-5305505</a>
                             </div>
                             <div class="info-item">
                                 <i class="fa fa-comments mr-2" aria-hidden="true"></i>
-                                <span>Live Chat</span>
+                                <a href="#">Live Chat</a>
                             </div>
                             <div class="info-item">
                                 <i class="fa fa-user-circle mr-2" aria-hidden="true"></i>
-                                <span>Member Area</span>
+                                <a href="#">Member Area</a>
                             </div>
                         </div>
                     </div>
